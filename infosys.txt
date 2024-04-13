@@ -1,0 +1,4 @@
+echo "hai"
+echo "lets learn git"
+date
+df -h
